@@ -43,8 +43,8 @@ cd predictive_maintenance_project
 2. Установите зависимости:
 ```
 pip install -r requirements.txt
-
 ```
+
 3. Запустите приложение:
 ```
 streamlit run app.py
